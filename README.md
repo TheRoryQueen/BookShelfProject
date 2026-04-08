@@ -1,1 +1,30 @@
 # BookShelfProject
+A little desktop app I built for my intro Python class that lets you manage your bookshelf visually. You can add books, upload cover images, and delete ones you don't want anymore. Everything saves automatically so nothing gets lost when you close it.
+
+How to run it
+Make sure you have Python 3 installed, then open Terminal and run:
+pip3 install Pillow
+That only needs to be done once. After that, every time you want to open the app:
+cd path/to/bookshelf_v2
+python3 bookshelf_app.py
+
+How to use it
+Browsing your shelf — all your books show up as colored spines on the shelf. Click any spine to open it and see the full details.
+Adding a book — fill in the title and synopsis at the bottom of the window and hit "Add Book +". It saves immediately.
+Uploading a cover — click a book spine to open it, then hit "Upload Cover". Pick any image from your computer and it'll show up right away and stay there even after you close the app.
+Deleting a book — open the book and hit "Delete Book". It'll ask you to confirm first.
+
+Folder structure
+bookshelf_v2/
+├── bookshelf_app.py       ← run this to open the app
+├── README.md              ← you're reading it
+└── data/
+    ├── books.json         ← where all your book info is saved
+    └── covers/            ← where cover images get stored
+Don't move or rename the data/ folder — the app needs it to be right next to the script.
+
+Notes
+
+If you want to start completely fresh, just delete data/books.json and the app will start with an empty shelf
+Cover images get copied into data/covers/ automatically when you upload them, so even if you delete the original photo the cover stays in the app
+The app prints some info to the Terminal when it opens so you can see exactly where it's reading and saving your data — handy for debugging
