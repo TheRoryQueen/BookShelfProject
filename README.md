@@ -14,14 +14,6 @@ Adding a book — fill in the title and synopsis at the bottom of the window and
 Uploading a cover — click a book spine to open it, then hit "Upload Cover". Pick any image from your computer and it'll show up right away and stay there even after you close the app.
 Deleting a book — open the book and hit "Delete Book". It'll ask you to confirm first.
 
-Folder structure
-bookshelf_v2/
-├── bookshelf_app.py       ← run this to open the app
-├── README.md              ← you're reading it
-└── data/
-    ├── books.json         ← where all your book info is saved
-    └── covers/            ← where cover images get stored
-Don't move or rename the data/ folder — the app needs it to be right next to the script.
 
 Notes
 
