@@ -10,12 +10,7 @@ Make sure you have Python 3 installed, then open Terminal and run:
 pip3 install Pillow
 ```
 
-That only needs to be done once. After that, every time you want to open the app:
-
-```bash
-cd ~/Downloads/bookshelf_v2
-python3 bookshelf_app.py
-```
+That only needs to be done once. 
 
 ## Folder structure
 
