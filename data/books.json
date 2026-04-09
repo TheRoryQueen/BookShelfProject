@@ -1,0 +1,42 @@
+{
+    "The Night Circus": {
+        "synopsis": "A magical competition between two young illusionists unfolds inside a mysterious black-and-white circus that only appears at night. As their rivalry deepens, so does an unexpected and forbidden love.",
+        "cover": null,
+        "color": "#B5451B"
+    },
+    "The Invisible Life of Addie LaRue": {
+        "synopsis": "A young woman in 18th-century France makes a desperate bargain with a dark god and is cursed to be forgotten by everyone she meets — until, centuries later, she encounters a man who somehow remembers her name.",
+        "cover": "The Invisible Life of Addie LaRue.jpeg",
+        "color": "#1A5276"
+    },
+    "Pride and Prejudice": {
+        "synopsis": "A classic story of love, class, and misunderstanding set in Regency-era England. Elizabeth Bennet must navigate family pressure, social expectation, and her own prejudices as she crosses paths with the proud Mr. Darcy.",
+        "cover": "Pride and Prejudice.jpeg",
+        "color": "#117A65"
+    },
+    "Six of Crows": {
+        "synopsis": "A crew of dangerous outcasts is hired to pull off an impossible heist deep inside enemy territory. Led by the cunning Kaz Brekker, the gang must outwit a heavily fortified prison — and each other.",
+        "cover": "Six of Crows.jpg",
+        "color": "#6C3483"
+    },
+    "Alchemised": {
+        "synopsis": "A young woman enters a dark and mysterious estate, drawn into a world of secrets, ancient magic, and dangerous alchemy. What she finds inside will change everything she thought she knew about herself.",
+        "cover": "Alchemised.jpg",
+        "color": "#8B6914"
+    },
+    "Not in Love": {
+        "synopsis": "Rue never does anything for love — until she meets Eli Killgore. A scientists-to-enemies-to-lovers story full of tension, wit, and heat, from the bestselling author of The Love Hypothesis.",
+        "cover": "Not in Love.jpeg",
+        "color": "#C2185B"
+    },
+    "The Book Thief": {
+        "synopsis": "Set in Nazi Germany, young Liesel Meminger steals books and shares them with her neighbors during bombing raids and with the Jewish man hiding in her basement. Narrated by Death himself.",
+        "cover": "The Book Thief.jpeg",
+        "color": "#8B0000"
+    },
+    "The Way of Kings": {
+        "synopsis": "On the world of Roshar, kingdoms clash in an endless war. A surgeon turned soldier, a young woman searching for ancient weapons, and a royal assassin are drawn together by forces beyond their understanding.",
+        "cover": "The Way of Kings.jpg",
+        "color": "#B5451B"
+    }
+}
